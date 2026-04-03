@@ -1,14 +1,14 @@
 # 🧔🏽‍♂️ Olá, eu sou Renan Fermino.
 
-**`Desenvolvedor Backend | Python • Django • APIs • Automação de Processos`**
+**`Desenvolvedor Backend | Python • Django • APIs • Automação de Processos • Integração de Sistemas`**
 
 Sou Bacharel em Ciências Contábeis e atualmente curso Análise e Desenvolvimento de Sistemas. Atuo como desenvolvedor backend com foco em construção de APIs, automação de processos e integração entre sistemas corporativos.
 
-Tenho experiência sólida com Python e Django, além de forte atuação em ambientes empresariais utilizando ERPs como TOTVS RM e Protheus, apoiando principalmente áreas de RH, relatórios analíticos e melhoria de performance de sistemas. :contentReference[oaicite:0]{index=0}
+Tenho experiência sólida com Python e Django, além de forte atuação em ambientes empresariais utilizando ERPs como TOTVS RM e Protheus, apoiando principalmente áreas de RH, relatórios analíticos e otimização de performance.
 
 Acredito em tecnologia como meio de transformar operações complexas em soluções simples, eficientes e escaláveis. Por isso, concentro meus estudos em arquitetura de sistemas, cloud e boas práticas de desenvolvimento backend.
 
-📊 Atualmente explorando: Docker, CI/CD, arquitetura de microsserviços.
+📊 Atualmente explorando: Docker, CI/CD, arquitetura de microsserviços e cloud computing.
 
 🛠️ Background técnico: Desenvolvimento backend, automação de processos, integração de sistemas, análise de dados e SQL avançado.
 
@@ -44,18 +44,36 @@ Acredito em tecnologia como meio de transformar operações complexas em soluç�
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" alt="Django" />
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" alt="Docker" />
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" alt="React" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" />
 </p>
+
+---
+
+### ⚙️ Principais competências
+
+- Desenvolvimento de APIs REST (Django REST Framework)
+- Integração de sistemas corporativos (ERP TOTVS RM e Protheus)
+- Automação de processos empresariais
+- Consultas SQL avançadas e otimização de banco de dados
+- Modelagem de dados (PostgreSQL / MySQL)
+- Arquitetura backend e organização de projetos
+- Refatoração de sistemas legados
+- CI/CD e versionamento com Git
+- Análise de dados para suporte a decisões de negócio
 
 ---
 
